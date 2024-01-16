@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\coffewshop\bin\Debug\coffewshop.exe.config
+C:\Users\HP\source\repos\coffewshop\bin\Debug\coffewshop.exe
+C:\Users\HP\source\repos\coffewshop\bin\Debug\coffewshop.pdb
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.Properties.Resources.resources
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.exe
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.pdb
+C:\Users\HP\source\repos\coffewshop\obj\Debug\coffewshop.Form1.resources
